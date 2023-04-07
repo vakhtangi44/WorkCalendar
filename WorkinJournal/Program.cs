@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
@@ -12,16 +12,9 @@ namespace WorkingJournal
             Journal journal = new ();
 
             var emploies = new List<Employee> {
-           new("Ana", "Raqviashvili"),
-           new("Lasha", "Kalandadze"),
-           new ("Lela", "Kvatadze"),
-           new ("Shalva", "Raqviashvili"),
-           new ("Giorgi", "Qituashvili"),
-           new ("Giorgi", "Dafqviashvili"),
-           new ("Luka", "Khijakadze"),
-           new ("Vakhtang", "Kapanadze"),
-           new ("Rezi", "Kakabadze"),
-            new("Nani", "Gholijashvili") };
+           //new("Peter", "Parker"),
+           //new("Harry", "Potter"),
+           };
 
             var date = new DateTime(2023,2,1);
             var random = new Random();
