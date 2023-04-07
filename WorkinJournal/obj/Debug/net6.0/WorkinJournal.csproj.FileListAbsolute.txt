@@ -1,0 +1,15 @@
+D:\WrittenGames\WorkinJournal\WorkinJournal\bin\Debug\net6.0\WorkinJournal.exe
+D:\WrittenGames\WorkinJournal\WorkinJournal\bin\Debug\net6.0\WorkinJournal.deps.json
+D:\WrittenGames\WorkinJournal\WorkinJournal\bin\Debug\net6.0\WorkinJournal.runtimeconfig.json
+D:\WrittenGames\WorkinJournal\WorkinJournal\bin\Debug\net6.0\WorkinJournal.dll
+D:\WrittenGames\WorkinJournal\WorkinJournal\bin\Debug\net6.0\WorkinJournal.pdb
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.csproj.AssemblyReference.cache
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.GeneratedMSBuildEditorConfig.editorconfig
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.AssemblyInfoInputs.cache
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.AssemblyInfo.cs
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.csproj.CoreCompileInputs.cache
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.dll
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\refint\WorkinJournal.dll
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.pdb
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\WorkinJournal.genruntimeconfig.cache
+D:\WrittenGames\WorkinJournal\WorkinJournal\obj\Debug\net6.0\ref\WorkinJournal.dll
